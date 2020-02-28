@@ -15,7 +15,7 @@ public class MiControlador {
 	@RequestMapping(value = "")
 	public String hola(ModelMap mp) {
 		mp.put("textoHola", "Hola Mundo");
-		log.debug("Desde hola()");
+		log.debug("prueba");
 		return "HolaMundo";
 	}
 
