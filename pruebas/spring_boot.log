@@ -1,0 +1,28 @@
+2020-02-29 08:58:55.684  INFO 4244 --- [main] i.p.TutorialSpringApplication            : Starting TutorialSpringApplication on DESKTOP-B92HCIT with PID 4244 (E:\Dev\sts_projects\TutorialSpring\target\classes started by PCCOM in E:\Dev\sts_projects\TutorialSpring)
+2020-02-29 08:58:55.685  INFO 4244 --- [main] i.p.TutorialSpringApplication            : No active profile set, falling back to default profiles: default
+2020-02-29 08:58:56.199  INFO 4244 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-02-29 08:58:56.205  INFO 4244 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-29 08:58:56.206  INFO 4244 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-29 08:58:56.253  INFO 4244 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-29 08:58:56.253  INFO 4244 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 542 ms
+2020-02-29 08:58:56.356  INFO 4244 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-29 08:58:56.478  INFO 4244 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-29 08:58:56.481  INFO 4244 --- [main] i.p.TutorialSpringApplication            : Started TutorialSpringApplication in 1.002 seconds (JVM running for 1.536)
+2020-02-29 09:01:02.918  INFO 4244 --- [RMI TCP Connection(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-02-29 09:01:02.919  INFO 4244 --- [RMI TCP Connection(11)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-29 09:02:15.576  INFO 124 --- [main] i.p.TutorialSpringApplication            : Starting TutorialSpringApplication on DESKTOP-B92HCIT with PID 124 (E:\Dev\sts_projects\TutorialSpring\target\classes started by PCCOM in E:\Dev\sts_projects\TutorialSpring)
+2020-02-29 09:02:15.577  INFO 124 --- [main] i.p.TutorialSpringApplication            : No active profile set, falling back to default profiles: default
+2020-02-29 09:02:16.150  INFO 124 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-02-29 09:02:16.155  INFO 124 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-29 09:02:16.156  INFO 124 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-29 09:02:16.206  INFO 124 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-29 09:02:16.207  INFO 124 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 604 ms
+2020-02-29 09:02:16.316  INFO 124 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-29 09:02:16.442  INFO 124 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-02-29 09:02:16.445  INFO 124 --- [main] i.p.TutorialSpringApplication            : Started TutorialSpringApplication in 1.127 seconds (JVM running for 1.666)
+2020-02-29 09:02:26.094  INFO 124 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-29 09:02:26.094  INFO 124 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-02-29 09:02:26.097  INFO 124 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-02-29 09:02:26.110  INFO 124 --- [http-nio-8080-exec-1] i.p.controlador.MiControlador            : prueba miControlador
+2020-02-29 09:06:41.391  INFO 124 --- [RMI TCP Connection(13)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-02-29 09:06:41.392  INFO 124 --- [RMI TCP Connection(13)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
